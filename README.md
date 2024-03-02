@@ -27,3 +27,9 @@ For the same 100,000 Virtual threads its takes about 500ms
 
 ![image](https://github.com/mjameer/virtual-threads-java-21/assets/11364104/d754c6a3-daf6-4350-9ec0-7a52a89538e3)
 
+VirtUAL Threads for Executor 
+
+
+![image](https://github.com/mjameer/virtual-threads-java-21/assets/11364104/366ed078-ee5d-4eed-abc1-3468a5241f4d)
+
+
