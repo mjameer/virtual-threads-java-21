@@ -33,3 +33,4 @@ VirtUAL Threads for Executor
 ![image](https://github.com/mjameer/virtual-threads-java-21/assets/11364104/366ed078-ee5d-4eed-abc1-3468a5241f4d)
 
 
+Here a Virtual thread is created for every task that is submitted, so the concept of CachedThreadPool for Executor servece is eliminated for Virtual thread 
